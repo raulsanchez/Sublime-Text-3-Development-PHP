@@ -1,0 +1,24 @@
+{
+	"auto_find_in_selection": true,
+	"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda (SL).tmTheme",
+	"draw_white_space": "all",
+	"fade_fold_buttons": false,
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		120
+	],
+	"show_encoding": true,
+	"show_full_path": false,
+	"show_line_endings": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

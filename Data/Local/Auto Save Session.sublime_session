@@ -1,0 +1,1670 @@
+{
+	"folder_history":
+	[
+		"/C/xampp/htdocs/tesisZamy",
+		"/C/Users/Raul/Desktop/ws",
+		"/D/Server Page Idiem/srv/www",
+		"/D/Server Page Idiem/srv/www/src",
+		"/C/Users/Raul/Desktop/web",
+		"/C/xampp/htdocs/examen",
+		"/C/xampp/htdocs/adminproyecto",
+		"/C/Users/Raul/Desktop/Curso Master PHP - Nivel Avanzado/PHP Avanzado – Semana 3/facturacion",
+		"/C/xampp/htdocs/Lab",
+		"/C/xampp/htdocs/Lab/chart json",
+		"/C/xampp/htdocs/cakephp3",
+		"/C/xampp/htdocs/cakephp",
+		"/D/PROYECTOS"
+	],
+	"last_version": 3126,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 799.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"trasf",
+						"-moz-transform: 〔property〕"
+					],
+					[
+						"Licitaci",
+						"Licitación\t(crear_solicitud2.html.es.php)"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"Arra",
+						"ArrayCode〔variable〕"
+					],
+					[
+						"border-",
+						"border-radius"
+					],
+					[
+						"text-",
+						"text-transform"
+					],
+					[
+						"transform",
+						"-moz-transform: 〔property〕"
+					],
+					[
+						"WID",
+						"width"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"uc",
+						"ucwords"
+					],
+					[
+						"strto",
+						"strtolower"
+					],
+					[
+						"border",
+						"border-left: 〔property〕"
+					],
+					[
+						"tiempo",
+						"tiempo_tmp"
+					],
+					[
+						"num",
+						"num_licitacion"
+					],
+					[
+						"ut",
+						"utilizado_licitacion"
+					],
+					[
+						"datos_exce",
+						"datos_excels"
+					],
+					[
+						"vige",
+						"vigencia"
+					],
+					[
+						"fecha",
+						"fecha_adjudicacion"
+					],
+					[
+						"Conta",
+						"Contabilidad"
+					],
+					[
+						"PAR_CON",
+						"PAR_CONTAR_PERS_ID"
+					],
+					[
+						"data",
+						"data_xml"
+					],
+					[
+						"api_",
+						"$api_key〔variable〕"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					],
+					[
+						"RobotoSlab-",
+						"RobotoSlab-Regular.ttf"
+					],
+					[
+						"pie",
+						"piefirma.jpg\tw:3077 h:1427"
+					],
+					[
+						"margin-",
+						"margin-left"
+					],
+					[
+						"datos",
+						"datos_traspaso"
+					],
+					[
+						"TRAS",
+						"TRAS_ID"
+					],
+					[
+						"cento",
+						"centro_costo"
+					],
+					[
+						"rgb",
+						"rgba()"
+					],
+					[
+						"for",
+						"for\tfor …"
+					],
+					[
+						"Prov",
+						"Proveedor\t(proveedor_editar.php)"
+					],
+					[
+						"prod",
+						"producto"
+					],
+					[
+						"nombre",
+						"nombre_proveedor"
+					],
+					[
+						"prodcut",
+						"producto"
+					],
+					[
+						"con",
+						"conexion\t(login.php)"
+					],
+					[
+						"mysql_fech",
+						"mysql_fetch_assoc"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"product",
+						"products_compact"
+					],
+					[
+						"Con",
+						"Configure::write('debug',2"
+					],
+					[
+						"jso",
+						"json_decode〔function〕"
+					],
+					[
+						"gastomes",
+						"gastomes_detalle"
+					],
+					[
+						"json_",
+						"json_encode〔function〕"
+					],
+					[
+						"dato",
+						"dato_tarea"
+					],
+					[
+						"endfor",
+						"endforeach〔keyword〕"
+					],
+					[
+						"Detalle",
+						"DetalleDivision"
+					],
+					[
+						"se",
+						"secciones"
+					],
+					[
+						"divis",
+						"divisiones"
+					],
+					[
+						"unida",
+						"unidades"
+					],
+					[
+						"presupuesto",
+						"presupuestoSai"
+					],
+					[
+						"sha",
+						"box-shadow: 〔property〕"
+					],
+					[
+						"font",
+						"font-weight: 〔property〕"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"presupue",
+						"presupuesto_disponible"
+					],
+					[
+						"de",
+						"detalle"
+					],
+					[
+						"tar",
+						"tar_id"
+					],
+					[
+						"Merc",
+						"MercadoPúblico"
+					],
+					[
+						"end",
+						"endforeach〔keyword〕"
+					],
+					[
+						"get",
+						"getMercadoPublico"
+					],
+					[
+						"tar_",
+						"tar_recorridas"
+					],
+					[
+						"in_",
+						"in_array〔function〕"
+					],
+					[
+						"dat",
+						"date_payment"
+					],
+					[
+						"firts",
+						"first"
+					],
+					[
+						"error",
+						"error_presupuesto"
+					],
+					[
+						"number",
+						"number_format($datosCC['PRE_DIFERENCIA"
+					],
+					[
+						"resta",
+						"resta_total"
+					],
+					[
+						"monto",
+						"monto_total"
+					],
+					[
+						"centro",
+						"centro_costo"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 83.0,
+				"last_filter": "sql",
+				"selected_items":
+				[
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"javas",
+						"Javascript Beautify"
+					],
+					[
+						"javascr",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"theme",
+						"SublimeLinter: Choose Gutter Theme"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"markl",
+						"SublimeLinter: Choose Mark Style"
+					],
+					[
+						"linter",
+						"SublimeLinter: Show Errors on Save"
+					],
+					[
+						"js",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"lint er",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"lin",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"jsq",
+						"Pretty JSON: JSON query with ./jq"
+					],
+					[
+						"j",
+						"Pretty JSON: JSON query with ./jq"
+					]
+				],
+				"width": 464.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/PROYECTOS/Idiem/idiem_seguimiento/sftp-config.json",
+				"/D/PROYECTOS/Idiem/cakes/control_proyectos/controllers/register_hours_controller.php",
+				"/D/PROYECTOS/Idiem/cakes/control_proyectos/controllers/components/project_control.php",
+				"/C/xampp/htdocs/tesisZamy/application/config/config.php",
+				"/C/Users/Raul/Desktop/ejemplo.sql",
+				"/D/PROYECTOS/Idiem/cakes/control_proyectos/views/register_hours/show.ctp",
+				"/D/PROYECTOS/Idiem/cakes/control_proyectos/views/helpers/proccess_hours.php",
+				"/C/xampp/htdocs/cakephp3/account/config/app.php",
+				"/C/xampp/htdocs/tesisZamy/system/database/DB_driver.php",
+				"/C/Users/Raul/Documents/NetSarang/Xftp/Temporary/funciones.php",
+				"/C/Users/Raul/Desktop/accessGmail.html",
+				"/C/Users/Raul/Documents/NetSarang/Xftp/Temporary/accessGmail.html",
+				"/C/Users/Raul/Desktop/accessGmail.htm",
+				"/D/PROYECTOS/Idiem/presupuesto/controllers/app_controller.php",
+				"/D/PROYECTOS/Idiem/orden_compra/web/index.php",
+				"/C/Users/Raul/Documents/My Games/Fallout Shelter/Vault1.json",
+				"/C/Users/Raul/Documents/My Games/Fallout Shelter/Vault1 - copia.sav",
+				"/C/Users/Raul/Desktop/fallout shelter bySmash513/fallout shelter bySmash513/elamigos-1.bin",
+				"/C/xampp/htdocs/Lab/ApiManageEngine.php",
+				"/D/PROYECTOS/Idiem/presupuesto/views/layouts/stockton.ctp",
+				"/D/PROYECTOS/Idiem/licitaciones/config/core.php",
+				"/D/PROYECTOS/Idiem/licitaciones/views/mantenedor_licitacion/valida_licitacion.ctp",
+				"/D/PROYECTOS/Idiem/licitaciones/views/mantenedor_licitacion/add.ctp",
+				"/D/PROYECTOS/Idiem/adquisiciones/template/tmp/crear_solicitud2.html.es.php",
+				"/D/PROYECTOS/Idiem/licitaciones/controllers/mantenedor_licitacion_controller.php",
+				"/D/PROYECTOS/Idiem/licitaciones/views/mantenedor_licitacion/index.ctp",
+				"/D/PROYECTOS/Idiem/licitaciones/views/reportes_licitacion/datos_reporte.ctp",
+				"/D/PROYECTOS/Idiem/licitaciones/controllers/reportes_licitacion_controller.php",
+				"/D/PROYECTOS/Idiem/licitaciones/views/reportes_licitacion/index.ctp",
+				"/C/Users/Raul/Desktop/LICITACION ANTIGUAS CSV.csv",
+				"/D/PROYECTOS/Idiem/licitaciones/views/reportes_licitacion/excel.ctp",
+				"/D/PROYECTOS/Idiem/presupuesto/controllers/api_workflow_controller.php",
+				"/D/PROYECTOS/Idiem/licitaciones/views/mantenedor_licitacion/view.ctp",
+				"/D/PROYECTOS/Idiem/licitaciones/webroot/css/style.css",
+				"/D/PROYECTOS/Idiem/licitaciones/views/layouts/stockton.ctp",
+				"/D/PROYECTOS/Idiem/licitaciones/webroot/css/estilo.css",
+				"/D/PROYECTOS/Idiem/licitaciones/models/datos.php",
+				"/D/PROYECTOS/Idiem/licitaciones/sftp-config.json",
+				"/C/Users/Raul/Desktop/srv12.cpanelhost.cl Secure Email Setup.vbs",
+				"/C/Users/Raul/Desktop/soporte%40raulsanchez.cl Email Settings.reg",
+				"/C/Users/Raul/Desktop/sql injections.txt",
+				"/C/xampp/apache/conf/httpd.conf",
+				"/D/PROYECTOS/Idiem/presupuesto/controllers/reporte_orden_compra_controller.php",
+				"/C/Users/Raul/Desktop/ws/Servidor/servidor.php",
+				"/D/PROYECTOS/Idiem/presupuesto/config/core.php",
+				"/D/PROYECTOS/Idiem/presupuesto/views/reporte_contabilidad/cambios_flujos.ctp",
+				"/D/PROYECTOS/Idiem/presupuesto/controllers/reporte_contabilidad_controller.php",
+				"/C/Users/Raul/Desktop/web/index.html",
+				"/C/xampp/htdocs/Lab/piefirma/generapiefirma.php",
+				"/C/xampp/htdocs/Lab/piefirma/index.html",
+				"/C/xampp/htdocs/Lab/hc2.php",
+				"/C/Users/Raul/Desktop/Zoho.ManageEngine.ServiceDesk.Plus.Ent.v9.0.0.9007/AdventNetFullLicence.xml",
+				"/C/Users/Raul/Desktop/web/sftp-config.json",
+				"/C/Users/Raul/Desktop/b374k-2.8.source.php",
+				"/C/Users/Raul/Desktop/miniphpshell-27.9.txt",
+				"/C/Users/Raul/Desktop/hc2.php",
+				"/C/Users/Raul/Desktop/hc.php",
+				"/C/Users/Raul/Desktop/web/css/style.css",
+				"/C/xampp/htdocs/piefirma/index.txt",
+				"/D/PROYECTOS/Idiem/traspaso/web/traspaso.php",
+				"/D/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/PROYECTOS/Idiem/traspaso/include/funciones.php",
+				"/D/PROYECTOS/Idiem/traspaso/template/traspaso.html",
+				"/D/PROYECTOS/Idiem/traspaso/web/grup_datos.php",
+				"/D/Sublime Text 3/Data/Packages/User/Color Highlighter/themes/Monokai Soda (SL).tmTheme",
+				"/D/Sublime Text 3/Data/Packages/ApplySyntax/ApplySyntax.sublime-settings",
+				"/D/PROYECTOS/Idiem/traspaso/sftp-config.json",
+				"/D/Server Page Idiem/srv/www/media/comments/ubicación_y_fotografias.pdf",
+				"/D/Server Page Idiem/srv/www/src/settings/prod.py",
+				"/C/Users/Raul/AppData/Local/Temp/fz3temp-1/default",
+				"/D/PROYECTOS/Idiem/adquisiciones/web/aprobar_seccion.php",
+				"/C/Users/Raul/AppData/Local/Temp/fz3temp-1/apache2.conf",
+				"/C/Users/Raul/AppData/Local/Temp/fz3temp-1/000-default.conf",
+				"/D/PROYECTOS/Idiem/workflow/include/api.php",
+				"/C/xampp/htdocs/cakephp3/account/src/Controller/PagesController.php",
+				"/C/xampp/htdocs/cakephp3/account/src/Template/Pages/index.ctp",
+				"/D/PROYECTOS/Accounts/sftp-config.json",
+				"/C/Users/Raul/Desktop/cake3 (2).sql",
+				"/C/Users/Raul/Desktop/cake3.sql",
+				"/C/Users/Raul/Desktop/products.sql",
+				"/C/Users/Raul/Desktop/cake3 (1).sql",
+				"/C/Users/Raul/Desktop/accounts.sql",
+				"/C/xampp/htdocs/examen/db_oficina.sql",
+				"/C/Users/Raul/Desktop/db_oficina (1).sql",
+				"/C/xampp/htdocs/examen/login.php",
+				"/C/xampp/htdocs/examen/menu.php",
+				"/C/xampp/htdocs/examen/reporte_compra.php",
+				"/C/xampp/htdocs/examen/css/estilo.css",
+				"/C/xampp/htdocs/examen/ingreso_compra.php",
+				"/C/xampp/htdocs/examen/ingreso_venta.php",
+				"/C/xampp/htdocs/examen/reporte_venta.php",
+				"/C/xampp/htdocs/examen/proveedor_editar.php",
+				"/C/xampp/htdocs/examen/proveedor_borrar.php",
+				"/C/xampp/htdocs/examen/producto.php",
+				"/C/xampp/htdocs/examen/producto_editar.php",
+				"/C/xampp/htdocs/examen/producto_borrar.php",
+				"/C/Users/Raul/Desktop/db_oficina.sql",
+				"/C/xampp/htdocs/examen/proveedor.php",
+				"/C/xampp/htdocs/examen/usuario_editar.php",
+				"/C/xampp/htdocs/examen/usuario_nuevo.php",
+				"/C/xampp/htdocs/examen/usuario.php",
+				"/C/xampp/htdocs/examen/usuario_borrar.php",
+				"/C/xampp/htdocs/examen/crear_usuario.php",
+				"/C/xampp/htdocs/adminproyecto/config/app.php",
+				"/C/xampp/htdocs/cakephp3/account/src/Template/Pages/month.ctp",
+				"/C/xampp/htdocs/cakephp3/account/src/Model/Entity/Product.php",
+				"/D/PROYECTOS/Idiem/presupuesto/controllers/presupuesto_sai_controller.php",
+				"/D/PROYECTOS/Idiem/orden_compra/template/listado_partes.html",
+				"/D/PROYECTOS/Idiem/orden_compra/web/busqueda_partes.php",
+				"/D/PROYECTOS/Idiem/orden_compra/template/consolidar_ordenes.html",
+				"/D/PROYECTOS/Idiem/orden_compra/web/listado_partes.php",
+				"/D/PROYECTOS/Idiem/orden_compra/include/funciones.php",
+				"/D/PROYECTOS/Idiem/presupuesto/views/api_workflow/api.ctp",
+				"/C/xampp/htdocs/cakephp3/account/src/Controller/AppController.php",
+				"/D/PROYECTOS/Idiem/presupuesto/views/presupuesto_sai/excel_todo_mensual.ctp",
+				"/C/Users/Raul/Desktop/adoptemo_Adoptemos.32tables.sql",
+				"/D/PROYECTOS/Idiem/presupuesto/views/api_workflow/gastomes.ctp",
+				"/D/PROYECTOS/Idiem/presupuesto/controllers/presupuesto_wf_controller.php",
+				"/D/PROYECTOS/Idiem/adquisiciones/template/aprobar_seccion.html",
+				"/D/PROYECTOS/Idiem/workflow/include/funciones.php",
+				"/D/PROYECTOS/Idiem/presupuesto/controllers/components/utilitarios.php",
+				"/D/PROYECTOS/Idiem/presupuesto/views/api_workflow/index.ctp",
+				"/D/PROYECTOS/Idiem/presupuesto/views/presupuesto_sai_anual/reporte.ctp",
+				"/D/Sublime Text 3/Data/Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
+				"/D/PROYECTOS/Idiem/presupuesto/webroot/js/pace.min.js",
+				"/D/PROYECTOS/Idiem/presupuesto/controllers/traspaso_controller.php",
+				"/D/PROYECTOS/Idiem/presupuesto/views/elements/buscar_presupuesto_sai.ctp",
+				"/D/PROYECTOS/Idiem/presupuesto/views/presupuesto_sai/detalle_division.ctp"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 101.0,
+				"where_history":
+				[
+					"D:\\PROYECTOS\\Idiem",
+					"D:\\Server Page Idiem",
+					"D:\\PROYECTOS\\Idiem",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"monday",
+					"resp",
+					"\"value\": 1,\n                            \"mod\": 0,\n                            \"exp\": 0.00",
+					"\"value\": 1,\n                            \"mod\": 4,\n                            \"exp\": 0.00",
+					"level",
+					"storage",
+					"0",
+					"lunchboxe",
+					"inventory",
+					"storage",
+					"NukaColaQuantum",
+					"happinessValue",
+					"\"value\": 9",
+					"\"value\": 10",
+					"10,",
+					"10",
+					"lunchboxes",
+					"0,",
+					"0",
+					"lunchbox",
+					"Storage",
+					"resources",
+					"Laun",
+					"Launch",
+					"launcher",
+					"nuka",
+					"storage",
+					"nuke",
+					"861",
+					"8611",
+					"box",
+					"86",
+					"861",
+					",",
+					"lunchboxes",
+					"guardada",
+					"\t\t            \t\t\t\t\t",
+					",",
+					"(.",
+					",",
+					"-",
+					".",
+					"Aplication",
+					"Funcionarios",
+					"Delegation",
+					"error",
+					"):\n",
+					"strtolower",
+					"border",
+					"TEST",
+					"Personas",
+					"value",
+					":",
+					";*/\n",
+					"GB",
+					"sendMail",
+					"DJANGO_DATABASE_NAME",
+					"redirect(",
+					"team",
+					"top-nav",
+					"logo",
+					"3px",
+					"xico",
+					"ccc",
+					"000",
+					"tittle-head",
+					",',','.');",
+					"detail",
+					"true",
+					"();\n",
+					"<?php\n    require('conexion.php');\n    $consulta = mysql_query(\"SELECT\n                            proveedor.rut as rut_proveedor,\n                            proveedor.nombre as nombre_proveedor,\n                            factura.numero_factura,\n                            factura.fecha_factura,\n                            producto.nombre as nombre_producto,\n                            producto.cantidad,\n                            producto.precio\n                            FROM proveedor\n                            INNER JOIN factura ON factura.rut_proveedor = proveedor.rut\n                            INNER JOIN producto ON factura.id = producto.factura_id\n                            WHERE factura.tipo = 'compra'\");\n\n\n\n?>\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<title>Usuario</title>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"css/estilo.css\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"css/jquery.dataTables.min.css\">\n<script type=\"text/javascript\" src=\"javascript/jquery.js\"></script>\n<script type=\"text/javascript\" src=\"javascript/jquery.dataTables.min.js\"></script>\n<script type=\"text/javascript\">\n    $(document).ready(function() {\n        $('#table').DataTable();\n    });\n</script>\n</head>\n\n<body>\n<div class=\"header\">\n    <h1><strong><em>Tu Oficina S.A.</em></strong></h1>\n</div>\n<?php include 'menu.php' ?>\n\n    <div class=\"content\">\n        <h2>Reporte de Compras</h2>\n        <div >\n            <table id=\"table\">\n                <thead>\n                    <tr>\n                        <td>Rut Proveedor</td>\n                        <td>Nombre Proveedor</td>\n                        <td>Número Factura</td>\n                        <td>Fecha Factura</td>\n                        <td>Producto</td>\n                        <td>Cantidad</td>\n                        <td>Valor Unitario</td>\n                        <td>Valor Total</td>\n                    </tr>\n                </thead>\n                <tbody>\n                <?php while($producto = mysql_fetch_assoc($consulta)): ?>\n                    <?php $total = 0; ?>\n                    <tr>\n                        <td><?php echo $producto['rut_proveedor'] ?> </td>\n                        <td><?php echo $producto['nombre_proveedor'] ?> </td>\n                        <td><?php echo $producto['numero_factura'] ?> </td>\n                        <td><?php echo $producto['fecha_factura'] ?> </td>\n                        <td><?php echo $producto['nombre_producto'] ?> </td>\n                        <td><?php echo $producto['cantidad'] ?> </td>\n                        <td><?php echo $producto['precio'] ?> </td>\n                        <?php $total =  $producto['cantidad'] * $producto['precio']?>\n                        <td><?php echo $total ?></td>\n                    </tr>\n                <?php endwhile; ?>\n                </tbody>\n            </table>\n        </div>\n\n</body>\n</html>",
+					"\n            ",
+					"proveedor",
+					"rut",
+					"proveedor",
+					"Proveedor",
+					"codigo",
+					"precio",
+					"nombre",
+					"<tr>\n          <td>NOMBRE</td>\n          <td><input type=\"text\" name=\"nombre\" value=\"<?php echo $producto['nombre'] ?>\" required/></td>\n        </tr>",
+					"direccion",
+					"rut",
+					"proveedor",
+					"Proveedor",
+					"proveedor",
+					"rut",
+					"proveedor",
+					"usuario",
+					"proveedores",
+					"descripcion",
+					"empresas",
+					"nav",
+					"database",
+					"gasto_mes_div",
+					"detalle",
+					"\n            ",
+					"centro_costos_pertenecen_division_nombre",
+					"producto_tarea",
+					"dato_tarea",
+					"dato_tar",
+					"producto_tarea",
+					"user",
+					"|",
+					" // Configure::write('debug', 1);\n                            // // debug($producto);\n                            // Configure::write('debug', 0);",
+					"[$tarea_id]",
+					"[$codigo_flujo]",
+					"print_A",
+					"debug",
+					"[$codigo_flujo]",
+					"tarea_id",
+					"$tarea_id",
+					"$producto",
+					"PRODUCTO",
+					"producto",
+					"pro_id",
+					"pro_fecha_inicio",
+					"pro_fecha_fin",
+					",",
+					"fecha_apro",
+					"?>\n",
+					"division",
+					"$seccion",
+					"seccion",
+					"entra",
+					"cc_div",
+					"cc_relacion_division",
+					"cc_div",
+					"centro_costos_pertenecen_division_nombre"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 124.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 246.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1582.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"trasf",
+						"-moz-transform: 〔property〕"
+					],
+					[
+						"Licitaci",
+						"Licitación\t(crear_solicitud2.html.es.php)"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"Arra",
+						"ArrayCode〔variable〕"
+					],
+					[
+						"border-",
+						"border-radius"
+					],
+					[
+						"text-",
+						"text-transform"
+					],
+					[
+						"transform",
+						"-moz-transform: 〔property〕"
+					],
+					[
+						"WID",
+						"width"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"uc",
+						"ucwords"
+					],
+					[
+						"strto",
+						"strtolower"
+					],
+					[
+						"border",
+						"border-left: 〔property〕"
+					],
+					[
+						"tiempo",
+						"tiempo_tmp"
+					],
+					[
+						"num",
+						"num_licitacion"
+					],
+					[
+						"ut",
+						"utilizado_licitacion"
+					],
+					[
+						"datos_exce",
+						"datos_excels"
+					],
+					[
+						"vige",
+						"vigencia"
+					],
+					[
+						"fecha",
+						"fecha_adjudicacion"
+					],
+					[
+						"Conta",
+						"Contabilidad"
+					],
+					[
+						"PAR_CON",
+						"PAR_CONTAR_PERS_ID"
+					],
+					[
+						"data",
+						"data_xml"
+					],
+					[
+						"api_",
+						"$api_key〔variable〕"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					],
+					[
+						"RobotoSlab-",
+						"RobotoSlab-Regular.ttf"
+					],
+					[
+						"pie",
+						"piefirma.jpg\tw:3077 h:1427"
+					],
+					[
+						"margin-",
+						"margin-left"
+					],
+					[
+						"datos",
+						"datos_traspaso"
+					],
+					[
+						"TRAS",
+						"TRAS_ID"
+					],
+					[
+						"cento",
+						"centro_costo"
+					],
+					[
+						"rgb",
+						"rgba()"
+					],
+					[
+						"for",
+						"for\tfor …"
+					],
+					[
+						"Prov",
+						"Proveedor\t(proveedor_editar.php)"
+					],
+					[
+						"prod",
+						"producto"
+					],
+					[
+						"nombre",
+						"nombre_proveedor"
+					],
+					[
+						"prodcut",
+						"producto"
+					],
+					[
+						"con",
+						"conexion\t(login.php)"
+					],
+					[
+						"mysql_fech",
+						"mysql_fetch_assoc"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"product",
+						"products_compact"
+					],
+					[
+						"Con",
+						"Configure::write('debug',2"
+					],
+					[
+						"jso",
+						"json_decode〔function〕"
+					],
+					[
+						"gastomes",
+						"gastomes_detalle"
+					],
+					[
+						"json_",
+						"json_encode〔function〕"
+					],
+					[
+						"dato",
+						"dato_tarea"
+					],
+					[
+						"endfor",
+						"endforeach〔keyword〕"
+					],
+					[
+						"Detalle",
+						"DetalleDivision"
+					],
+					[
+						"se",
+						"secciones"
+					],
+					[
+						"divis",
+						"divisiones"
+					],
+					[
+						"unida",
+						"unidades"
+					],
+					[
+						"presupuesto",
+						"presupuestoSai"
+					],
+					[
+						"sha",
+						"box-shadow: 〔property〕"
+					],
+					[
+						"font",
+						"font-weight: 〔property〕"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"presupue",
+						"presupuesto_disponible"
+					],
+					[
+						"de",
+						"detalle"
+					],
+					[
+						"tar",
+						"tar_id"
+					],
+					[
+						"Merc",
+						"MercadoPúblico"
+					],
+					[
+						"end",
+						"endforeach〔keyword〕"
+					],
+					[
+						"get",
+						"getMercadoPublico"
+					],
+					[
+						"tar_",
+						"tar_recorridas"
+					],
+					[
+						"in_",
+						"in_array〔function〕"
+					],
+					[
+						"dat",
+						"date_payment"
+					],
+					[
+						"firts",
+						"first"
+					],
+					[
+						"error",
+						"error_presupuesto"
+					],
+					[
+						"number",
+						"number_format($datosCC['PRE_DIFERENCIA"
+					],
+					[
+						"resta",
+						"resta_total"
+					],
+					[
+						"monto",
+						"monto_total"
+					],
+					[
+						"centro",
+						"centro_costo"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/Sublime Text 3/.gitignore",
+					"settings":
+					{
+						"buffer_size": 45,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"javas",
+						"Javascript Beautify"
+					],
+					[
+						"javascr",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"theme",
+						"SublimeLinter: Choose Gutter Theme"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"markl",
+						"SublimeLinter: Choose Mark Style"
+					],
+					[
+						"linter",
+						"SublimeLinter: Show Errors on Save"
+					],
+					[
+						"js",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"lint er",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"lin",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"jsq",
+						"Pretty JSON: JSON query with ./jq"
+					],
+					[
+						"j",
+						"Pretty JSON: JSON query with ./jq"
+					]
+				],
+				"width": 464.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/PROYECTOS/Idiem/idiem_seguimiento/web/informe_nch204_2.php",
+				"/C/Users/Raul/Desktop/TODO/sql injections.txt",
+				"/D/PROYECTOS/Idiem/idiem_seguimiento/sftp-config.json",
+				"/D/PROYECTOS/Idiem/cakes/control_proyectos/controllers/register_hours_controller.php",
+				"/D/PROYECTOS/Idiem/cakes/control_proyectos/controllers/components/project_control.php",
+				"/C/xampp/htdocs/tesisZamy/application/config/config.php",
+				"/C/Users/Raul/Desktop/ejemplo.sql",
+				"/D/PROYECTOS/Idiem/cakes/control_proyectos/views/register_hours/show.ctp",
+				"/D/PROYECTOS/Idiem/cakes/control_proyectos/views/helpers/proccess_hours.php",
+				"/C/xampp/htdocs/cakephp3/account/config/app.php",
+				"/C/xampp/htdocs/tesisZamy/system/database/DB_driver.php",
+				"/C/Users/Raul/Documents/NetSarang/Xftp/Temporary/funciones.php",
+				"/C/Users/Raul/Desktop/accessGmail.html",
+				"/C/Users/Raul/Documents/NetSarang/Xftp/Temporary/accessGmail.html",
+				"/C/Users/Raul/Desktop/accessGmail.htm",
+				"/D/PROYECTOS/Idiem/presupuesto/controllers/app_controller.php",
+				"/D/PROYECTOS/Idiem/orden_compra/web/index.php",
+				"/C/Users/Raul/Documents/My Games/Fallout Shelter/Vault1.json",
+				"/C/Users/Raul/Documents/My Games/Fallout Shelter/Vault1 - copia.sav",
+				"/C/Users/Raul/Desktop/fallout shelter bySmash513/fallout shelter bySmash513/elamigos-1.bin",
+				"/C/xampp/htdocs/Lab/ApiManageEngine.php",
+				"/D/PROYECTOS/Idiem/presupuesto/views/layouts/stockton.ctp",
+				"/D/PROYECTOS/Idiem/licitaciones/config/core.php",
+				"/D/PROYECTOS/Idiem/licitaciones/views/mantenedor_licitacion/valida_licitacion.ctp",
+				"/D/PROYECTOS/Idiem/licitaciones/views/mantenedor_licitacion/add.ctp",
+				"/D/PROYECTOS/Idiem/adquisiciones/template/tmp/crear_solicitud2.html.es.php",
+				"/D/PROYECTOS/Idiem/licitaciones/controllers/mantenedor_licitacion_controller.php",
+				"/D/PROYECTOS/Idiem/licitaciones/views/mantenedor_licitacion/index.ctp",
+				"/D/PROYECTOS/Idiem/licitaciones/views/reportes_licitacion/datos_reporte.ctp",
+				"/D/PROYECTOS/Idiem/licitaciones/controllers/reportes_licitacion_controller.php",
+				"/D/PROYECTOS/Idiem/licitaciones/views/reportes_licitacion/index.ctp",
+				"/C/Users/Raul/Desktop/LICITACION ANTIGUAS CSV.csv",
+				"/D/PROYECTOS/Idiem/licitaciones/views/reportes_licitacion/excel.ctp",
+				"/D/PROYECTOS/Idiem/presupuesto/controllers/api_workflow_controller.php",
+				"/D/PROYECTOS/Idiem/licitaciones/views/mantenedor_licitacion/view.ctp",
+				"/D/PROYECTOS/Idiem/licitaciones/webroot/css/style.css",
+				"/D/PROYECTOS/Idiem/licitaciones/views/layouts/stockton.ctp",
+				"/D/PROYECTOS/Idiem/licitaciones/webroot/css/estilo.css",
+				"/D/PROYECTOS/Idiem/licitaciones/models/datos.php",
+				"/D/PROYECTOS/Idiem/licitaciones/sftp-config.json",
+				"/C/Users/Raul/Desktop/srv12.cpanelhost.cl Secure Email Setup.vbs",
+				"/C/Users/Raul/Desktop/soporte%40raulsanchez.cl Email Settings.reg",
+				"/C/Users/Raul/Desktop/sql injections.txt",
+				"/C/xampp/apache/conf/httpd.conf",
+				"/D/PROYECTOS/Idiem/presupuesto/controllers/reporte_orden_compra_controller.php",
+				"/C/Users/Raul/Desktop/ws/Servidor/servidor.php",
+				"/D/PROYECTOS/Idiem/presupuesto/config/core.php",
+				"/D/PROYECTOS/Idiem/presupuesto/views/reporte_contabilidad/cambios_flujos.ctp",
+				"/D/PROYECTOS/Idiem/presupuesto/controllers/reporte_contabilidad_controller.php",
+				"/C/Users/Raul/Desktop/web/index.html",
+				"/C/xampp/htdocs/Lab/piefirma/generapiefirma.php",
+				"/C/xampp/htdocs/Lab/piefirma/index.html",
+				"/C/xampp/htdocs/Lab/hc2.php",
+				"/C/Users/Raul/Desktop/Zoho.ManageEngine.ServiceDesk.Plus.Ent.v9.0.0.9007/AdventNetFullLicence.xml",
+				"/C/Users/Raul/Desktop/web/sftp-config.json",
+				"/C/Users/Raul/Desktop/b374k-2.8.source.php",
+				"/C/Users/Raul/Desktop/miniphpshell-27.9.txt",
+				"/C/Users/Raul/Desktop/hc2.php",
+				"/C/Users/Raul/Desktop/hc.php",
+				"/C/Users/Raul/Desktop/web/css/style.css",
+				"/C/xampp/htdocs/piefirma/index.txt",
+				"/D/PROYECTOS/Idiem/traspaso/web/traspaso.php",
+				"/D/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/PROYECTOS/Idiem/traspaso/include/funciones.php",
+				"/D/PROYECTOS/Idiem/traspaso/template/traspaso.html",
+				"/D/PROYECTOS/Idiem/traspaso/web/grup_datos.php",
+				"/D/Sublime Text 3/Data/Packages/User/Color Highlighter/themes/Monokai Soda (SL).tmTheme",
+				"/D/Sublime Text 3/Data/Packages/ApplySyntax/ApplySyntax.sublime-settings",
+				"/D/PROYECTOS/Idiem/traspaso/sftp-config.json",
+				"/D/Server Page Idiem/srv/www/media/comments/ubicación_y_fotografias.pdf",
+				"/D/Server Page Idiem/srv/www/src/settings/prod.py",
+				"/C/Users/Raul/AppData/Local/Temp/fz3temp-1/default",
+				"/D/PROYECTOS/Idiem/adquisiciones/web/aprobar_seccion.php",
+				"/C/Users/Raul/AppData/Local/Temp/fz3temp-1/apache2.conf",
+				"/C/Users/Raul/AppData/Local/Temp/fz3temp-1/000-default.conf",
+				"/D/PROYECTOS/Idiem/workflow/include/api.php",
+				"/C/xampp/htdocs/cakephp3/account/src/Controller/PagesController.php",
+				"/C/xampp/htdocs/cakephp3/account/src/Template/Pages/index.ctp",
+				"/D/PROYECTOS/Accounts/sftp-config.json",
+				"/C/Users/Raul/Desktop/cake3 (2).sql",
+				"/C/Users/Raul/Desktop/cake3.sql",
+				"/C/Users/Raul/Desktop/products.sql",
+				"/C/Users/Raul/Desktop/cake3 (1).sql",
+				"/C/Users/Raul/Desktop/accounts.sql",
+				"/C/xampp/htdocs/examen/db_oficina.sql",
+				"/C/Users/Raul/Desktop/db_oficina (1).sql",
+				"/C/xampp/htdocs/examen/login.php",
+				"/C/xampp/htdocs/examen/menu.php",
+				"/C/xampp/htdocs/examen/reporte_compra.php",
+				"/C/xampp/htdocs/examen/css/estilo.css",
+				"/C/xampp/htdocs/examen/ingreso_compra.php",
+				"/C/xampp/htdocs/examen/ingreso_venta.php",
+				"/C/xampp/htdocs/examen/reporte_venta.php",
+				"/C/xampp/htdocs/examen/proveedor_editar.php",
+				"/C/xampp/htdocs/examen/proveedor_borrar.php",
+				"/C/xampp/htdocs/examen/producto.php",
+				"/C/xampp/htdocs/examen/producto_editar.php",
+				"/C/xampp/htdocs/examen/producto_borrar.php",
+				"/C/Users/Raul/Desktop/db_oficina.sql",
+				"/C/xampp/htdocs/examen/proveedor.php",
+				"/C/xampp/htdocs/examen/usuario_editar.php",
+				"/C/xampp/htdocs/examen/usuario_nuevo.php",
+				"/C/xampp/htdocs/examen/usuario.php",
+				"/C/xampp/htdocs/examen/usuario_borrar.php",
+				"/C/xampp/htdocs/examen/crear_usuario.php",
+				"/C/xampp/htdocs/adminproyecto/config/app.php",
+				"/C/xampp/htdocs/cakephp3/account/src/Template/Pages/month.ctp",
+				"/C/xampp/htdocs/cakephp3/account/src/Model/Entity/Product.php",
+				"/D/PROYECTOS/Idiem/presupuesto/controllers/presupuesto_sai_controller.php",
+				"/D/PROYECTOS/Idiem/orden_compra/template/listado_partes.html",
+				"/D/PROYECTOS/Idiem/orden_compra/web/busqueda_partes.php",
+				"/D/PROYECTOS/Idiem/orden_compra/template/consolidar_ordenes.html",
+				"/D/PROYECTOS/Idiem/orden_compra/web/listado_partes.php",
+				"/D/PROYECTOS/Idiem/orden_compra/include/funciones.php",
+				"/D/PROYECTOS/Idiem/presupuesto/views/api_workflow/api.ctp",
+				"/C/xampp/htdocs/cakephp3/account/src/Controller/AppController.php",
+				"/D/PROYECTOS/Idiem/presupuesto/views/presupuesto_sai/excel_todo_mensual.ctp",
+				"/C/Users/Raul/Desktop/adoptemo_Adoptemos.32tables.sql",
+				"/D/PROYECTOS/Idiem/presupuesto/views/api_workflow/gastomes.ctp",
+				"/D/PROYECTOS/Idiem/presupuesto/controllers/presupuesto_wf_controller.php",
+				"/D/PROYECTOS/Idiem/adquisiciones/template/aprobar_seccion.html",
+				"/D/PROYECTOS/Idiem/workflow/include/funciones.php",
+				"/D/PROYECTOS/Idiem/presupuesto/controllers/components/utilitarios.php",
+				"/D/PROYECTOS/Idiem/presupuesto/views/api_workflow/index.ctp",
+				"/D/PROYECTOS/Idiem/presupuesto/views/presupuesto_sai_anual/reporte.ctp",
+				"/D/Sublime Text 3/Data/Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
+				"/D/PROYECTOS/Idiem/presupuesto/webroot/js/pace.min.js",
+				"/D/PROYECTOS/Idiem/presupuesto/controllers/traspaso_controller.php"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 101.0,
+				"where_history":
+				[
+					"D:\\PROYECTOS\\Idiem",
+					"D:\\Server Page Idiem",
+					"D:\\PROYECTOS\\Idiem",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"monday",
+					"resp",
+					"\"value\": 1,\n                            \"mod\": 0,\n                            \"exp\": 0.00",
+					"\"value\": 1,\n                            \"mod\": 4,\n                            \"exp\": 0.00",
+					"level",
+					"storage",
+					"0",
+					"lunchboxe",
+					"inventory",
+					"storage",
+					"NukaColaQuantum",
+					"happinessValue",
+					"\"value\": 9",
+					"\"value\": 10",
+					"10,",
+					"10",
+					"lunchboxes",
+					"0,",
+					"0",
+					"lunchbox",
+					"Storage",
+					"resources",
+					"Laun",
+					"Launch",
+					"launcher",
+					"nuka",
+					"storage",
+					"nuke",
+					"861",
+					"8611",
+					"box",
+					"86",
+					"861",
+					",",
+					"lunchboxes",
+					"guardada",
+					"\t\t            \t\t\t\t\t",
+					",",
+					"(.",
+					",",
+					"-",
+					".",
+					"Aplication",
+					"Funcionarios",
+					"Delegation",
+					"error",
+					"):\n",
+					"strtolower",
+					"border",
+					"TEST",
+					"Personas",
+					"value",
+					":",
+					";*/\n",
+					"GB",
+					"sendMail",
+					"DJANGO_DATABASE_NAME",
+					"redirect(",
+					"team",
+					"top-nav",
+					"logo",
+					"3px",
+					"xico",
+					"ccc",
+					"000",
+					"tittle-head",
+					",',','.');",
+					"detail",
+					"true",
+					"();\n",
+					"<?php\n    require('conexion.php');\n    $consulta = mysql_query(\"SELECT\n                            proveedor.rut as rut_proveedor,\n                            proveedor.nombre as nombre_proveedor,\n                            factura.numero_factura,\n                            factura.fecha_factura,\n                            producto.nombre as nombre_producto,\n                            producto.cantidad,\n                            producto.precio\n                            FROM proveedor\n                            INNER JOIN factura ON factura.rut_proveedor = proveedor.rut\n                            INNER JOIN producto ON factura.id = producto.factura_id\n                            WHERE factura.tipo = 'compra'\");\n\n\n\n?>\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<title>Usuario</title>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"css/estilo.css\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"css/jquery.dataTables.min.css\">\n<script type=\"text/javascript\" src=\"javascript/jquery.js\"></script>\n<script type=\"text/javascript\" src=\"javascript/jquery.dataTables.min.js\"></script>\n<script type=\"text/javascript\">\n    $(document).ready(function() {\n        $('#table').DataTable();\n    });\n</script>\n</head>\n\n<body>\n<div class=\"header\">\n    <h1><strong><em>Tu Oficina S.A.</em></strong></h1>\n</div>\n<?php include 'menu.php' ?>\n\n    <div class=\"content\">\n        <h2>Reporte de Compras</h2>\n        <div >\n            <table id=\"table\">\n                <thead>\n                    <tr>\n                        <td>Rut Proveedor</td>\n                        <td>Nombre Proveedor</td>\n                        <td>Número Factura</td>\n                        <td>Fecha Factura</td>\n                        <td>Producto</td>\n                        <td>Cantidad</td>\n                        <td>Valor Unitario</td>\n                        <td>Valor Total</td>\n                    </tr>\n                </thead>\n                <tbody>\n                <?php while($producto = mysql_fetch_assoc($consulta)): ?>\n                    <?php $total = 0; ?>\n                    <tr>\n                        <td><?php echo $producto['rut_proveedor'] ?> </td>\n                        <td><?php echo $producto['nombre_proveedor'] ?> </td>\n                        <td><?php echo $producto['numero_factura'] ?> </td>\n                        <td><?php echo $producto['fecha_factura'] ?> </td>\n                        <td><?php echo $producto['nombre_producto'] ?> </td>\n                        <td><?php echo $producto['cantidad'] ?> </td>\n                        <td><?php echo $producto['precio'] ?> </td>\n                        <?php $total =  $producto['cantidad'] * $producto['precio']?>\n                        <td><?php echo $total ?></td>\n                    </tr>\n                <?php endwhile; ?>\n                </tbody>\n            </table>\n        </div>\n\n</body>\n</html>",
+					"\n            ",
+					"proveedor",
+					"rut",
+					"proveedor",
+					"Proveedor",
+					"codigo",
+					"precio",
+					"nombre",
+					"<tr>\n          <td>NOMBRE</td>\n          <td><input type=\"text\" name=\"nombre\" value=\"<?php echo $producto['nombre'] ?>\" required/></td>\n        </tr>",
+					"direccion",
+					"rut",
+					"proveedor",
+					"Proveedor",
+					"proveedor",
+					"rut",
+					"proveedor",
+					"usuario",
+					"proveedores",
+					"descripcion",
+					"empresas",
+					"nav",
+					"database",
+					"gasto_mes_div",
+					"detalle",
+					"\n            ",
+					"centro_costos_pertenecen_division_nombre",
+					"producto_tarea",
+					"dato_tarea",
+					"dato_tar",
+					"producto_tarea",
+					"user",
+					"|",
+					" // Configure::write('debug', 1);\n                            // // debug($producto);\n                            // Configure::write('debug', 0);",
+					"[$tarea_id]",
+					"[$codigo_flujo]",
+					"print_A",
+					"debug",
+					"[$codigo_flujo]",
+					"tarea_id",
+					"$tarea_id",
+					"$producto",
+					"PRODUCTO",
+					"producto",
+					"pro_id",
+					"pro_fecha_inicio",
+					"pro_fecha_fin",
+					",",
+					"fecha_apro",
+					"?>\n",
+					"division",
+					"$seccion",
+					"seccion",
+					"entra",
+					"cc_div",
+					"cc_relacion_division",
+					"cc_div",
+					"centro_costos_pertenecen_division_nombre"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/Sublime Text 3/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 45,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										43,
+										43
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"function_name_status_row": 2,
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 124.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,1077,2,219,1600",
+			"project": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 246.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
